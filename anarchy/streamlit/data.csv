@@ -1,0 +1,502 @@
+Location,State,Region,Investment,Construction,BusinessType,Earthquake,Flood,Rating
+Urban,Dodoma,East,1617630,Frame,Retail,No,No,9.1
+Urban,Dodoma,East,8678500,Fire Resist,Apartment,Yes,Yes,9.6
+Rural,Kigoma,Midwest,2052660,Frame,Farming,No,No,7.4
+Urban,Dodoma,East,17580000,Frame,Apartment,Yes,Yes,8.4
+Urban,Dodoma,East,1925000,Masonry,Hospitality,No,No,5.3
+Urban,Iringa,Midwest,12934500,Frame,Apartment,Yes,Yes,4.1
+Urban,Kigoma,Midwest,928300,Masonry,Office Bldg,No,No,5.8
+Rural,Dodoma,East,2219900,Frame,Farming,No,No,8
+Urban,Dodoma,East,14100000,Frame,Apartment,Yes,Yes,7.2
+Urban,Dodoma,East,4762808,Masonry,Other,Yes,Yes,5.9
+Urban,Dodoma,East,13925190,Frame,Apartment,Yes,Yes,4.5
+Urban,Dodoma,East,6350000,Frame,Apartment,Yes,Yes,6.8
+Urban,Kigoma,Midwest,4036000,Masonry,Medical,Yes,Yes,7.1
+Urban,Dar es Salaam,East,472800,Masonry,Retail,Yes,Yes,8.2
+Urban,Kigoma,Midwest,11710880,Masonry,Apartment,Yes,Yes,5.7
+Urban,Dodoma,East,1370300,Frame,Apartment,Yes,Yes,4.5
+Rural,Kigoma,Midwest,1432835,Frame,Farming,No,No,4.6
+Urban,Dodoma,East,82000,Masonry,Organization,Yes,Yes,6.9
+Urban,Dodoma,East,192000,Masonry,Retail,No,No,8.6
+Urban,Dodoma,East,4950000,Frame,Office Bldg,Yes,Yes,4.4
+Urban,Mwanza,Northeast,2432875,Fire Resist,Apartment,No,No,4.8
+Urban,Arusha,Central,1529600,Masonry,Apartment,No,No,5.1
+Urban,Dodoma,East,7677000,Frame,Apartment,Yes,Yes,4.4
+Urban,Dodoma,East,13750000,Frame,Apartment,Yes,Yes,9.9
+Rural,Dodoma,East,2529400,Frame,Farming,No,No,6
+Urban,Dar es Salaam,East,2328650,Frame,Organization,No,No,8.5
+Urban,Kigoma,Midwest,4380200,Masonry,Office Bldg,Yes,Yes,6.7
+Urban,Dar es Salaam,East,2815000,Metal Clad,Apartment,Yes,Yes,7.7
+Urban,Dodoma,East,1177700,Frame,Hospitality,No,No,9.6
+Urban,Mwanza,Northeast,7203500,Frame,Office Bldg,Yes,Yes,7.4
+Urban,Kigoma,Midwest,53410614,Frame,Construction,Yes,Yes,4.8
+Urban,Dar es Salaam,East,3189300,Masonry,Service,Yes,Yes,4.5
+Rural,Iringa,Midwest,3145700,Frame,Education,No,No,5.1
+Urban,Kigoma,Midwest,1451100,Frame,Recreation,No,No,5.1
+Urban,Arusha,Central,1787900,Frame,Office Bldg,No,No,7.5
+Urban,Dodoma,East,18777355,Frame,Apartment,Yes,Yes,6.8
+Urban,Kigoma,Midwest,8800000,Fire Resist,Office Bldg,Yes,Yes,7
+Urban,Dodoma,East,1123000,Frame,Office Bldg,Yes,Yes,4.7
+Rural,Dodoma,East,2145420,Frame,Farming,No,No,7.6
+Urban,Dodoma,East,18933000,Frame,Office Bldg,Yes,Yes,7.7
+Urban,Dodoma,East,21400000,Fire Resist,Apartment,Yes,Yes,7.9
+Urban,Dodoma,East,3754000,Frame,Office Bldg,Yes,Yes,6.3
+Urban,Dodoma,East,9650000,Frame,Office Bldg,Yes,Yes,5.6
+Urban,Dodoma,East,9503000,Frame,Office Bldg,Yes,Yes,7.6
+Urban,Dar es Salaam,East,1688300,Frame,Hospitality,No,Yes,7.2
+Urban,Kigoma,Midwest,17856705,Masonry,Apartment,Yes,Yes,9.5
+Urban,Dodoma,East,7577000,Frame,Apartment,Yes,Yes,8.4
+Urban,Kigoma,Midwest,1990915,Masonry,Office Bldg,No,No,4.1
+Urban,Dar es Salaam,East,1245000,Frame,Hospitality,Yes,Yes,8.1
+Urban,Iringa,Midwest,1895000,Masonry,Office Bldg,No,No,7.9
+Urban,Kigoma,Midwest,5000368,Masonry,Manufacturing,No,No,9.5
+Urban,Dodoma,East,8397700,Frame,Apartment,Yes,Yes,8.5
+Urban,Dar es Salaam,East,36356000,Fire Resist,Apartment,Yes,Yes,6.5
+Urban,Dar es Salaam,East,16932600,Fire Resist,Apartment,Yes,Yes,6.1
+Urban,Arusha,Central,1849000,Metal Clad,Retail,No,No,6.5
+Urban,Arusha,Central,218490,Frame,Apartment,No,No,8.2
+Urban,Dar es Salaam,East,3052600,Frame,Apartment,Yes,No,5.8
+Urban,Kigoma,Midwest,8126500,Masonry,Organization,Yes,Yes,6.6
+Urban,Dodoma,East,11400000,Masonry,Apartment,Yes,Yes,5.4
+Urban,Dar es Salaam,East,5918400,Frame,Farming,Yes,No,9.3
+Rural,Dodoma,East,2550750,Frame,Farming,No,No,10
+Urban,Dodoma,East,140000,Masonry,Retail,No,No,7
+Urban,Dodoma,East,725000,Masonry,Service,No,No,10
+Urban,Dodoma,East,10098900,Frame,Office Bldg,Yes,Yes,8.6
+Rural,Dodoma,East,2937200,Frame,Farming,No,No,7.6
+Urban,Dar es Salaam,East,3644800,Frame,Apartment,Yes,Yes,5.8
+Urban,Dodoma,East,13882500,Frame,Apartment,Yes,Yes,6.7
+Rural,Dodoma,East,2050000,Frame,Farming,No,No,9.9
+Rural,Dodoma,East,3805200,Metal Clad,Farming,No,No,6.4
+Rural,Dodoma,East,1417800,Frame,Organization,No,No,4.3
+Rural,Kigoma,Midwest,5613900,Masonry,Farming,No,No,9.6
+Urban,Dar es Salaam,East,2471100,Frame,Farming,No,No,5.9
+Rural,Mwanza,Northeast,2985950,Frame,Farming,No,No,4
+Urban,Kigoma,Midwest,9062700,Fire Resist,Hospitality,No,No,8.7
+Urban,Dodoma,East,7350000,Frame,Apartment,Yes,Yes,9.4
+Urban,Dar es Salaam,East,1300900,Masonry,Office Bldg,No,No,5.4
+Urban,Dodoma,East,12750000,Frame,Apartment,Yes,Yes,8.6
+Urban,Dodoma,East,7585000,Fire Resist,Office Bldg,Yes,Yes,5.7
+Urban,Dodoma,East,9493313,Masonry,Apartment,Yes,Yes,6.6
+Urban,Dodoma,East,10302000,Fire Resist,Office Bldg,Yes,Yes,6
+Urban,Kilimanjaro,Northeast,2500000,Metal Clad,Manufacturing,No,No,5.5
+Urban,Kigoma,Midwest,4833900,Masonry,Office Bldg,No,No,6.4
+Urban,Dodoma,East,2029500,Metal Clad,Apartment,Yes,Yes,6.6
+Rural,Dodoma,East,2233200,Frame,Farming,No,No,8.3
+Urban,Dodoma,East,2001250,Frame,Office Bldg,Yes,Yes,6.6
+Rural,Dodoma,East,1498850,Metal Clad,Farming,No,No,4
+Urban,Dar es Salaam,East,405556,Frame,Apartment,Yes,No,9.9
+Urban,Dodoma,East,1311220,Frame,Apartment,No,No,7.3
+Urban,Dodoma,East,1769785,Frame,Hospitality,Yes,Yes,5.7
+Urban,Arusha,Central,5377000,Frame,Apartment,Yes,Yes,6.1
+Rural,Dodoma,East,1599860,Frame,Farming,No,No,7.1
+Urban,Dodoma,East,10780450,Frame,Apartment,Yes,Yes,8.2
+Urban,Dar es Salaam,East,3839200,Masonry,Apartment,No,No,5.1
+Urban,Dar es Salaam,East,296000,Frame,Apartment,No,No,8.6
+Rural,Kigoma,Midwest,2707630,Frame,Farming,No,No,6.6
+Urban,Dar es Salaam,East,2249500,Frame,Farming,No,No,7.2
+Urban,Dodoma,East,7611000,Masonry,Office Bldg,Yes,Yes,5.1
+Rural,Kigoma,Midwest,1152600,Frame,Farming,No,No,4.1
+Urban,Dar es Salaam,East,9115500,Frame,Apartment,Yes,Yes,9.3
+Urban,Dodoma,East,1600000,Masonry,Hospitality,Yes,Yes,7.4
+Urban,Dar es Salaam,East,2575965,Frame,Farming,Yes,No,4.1
+Urban,Dodoma,East,220000,Metal Clad,Hospitality,No,No,7.2
+Urban,Dodoma,East,1800000,Frame,Apartment,Yes,Yes,4.9
+Urban,Dar es Salaam,East,16998000,Frame,Office Bldg,Yes,Yes,9.9
+Urban,Dodoma,East,14450000,Frame,Office Bldg,Yes,Yes,8
+Urban,Dodoma,East,2835800,Metal Clad,Manufacturing,No,No,7.3
+Urban,Kigoma,Midwest,2280000,Frame,Hospitality,Yes,Yes,7.9
+Urban,Dar es Salaam,East,3960000,Frame,Office Bldg,Yes,Yes,7.4
+Urban,Mwanza,Northeast,5272975,Frame,Apartment,Yes,Yes,4.2
+Urban,Mwanza,Northeast,6354220,Frame,Apartment,Yes,Yes,9.2
+Urban,Dodoma,East,8892200,Masonry,Apartment,Yes,Yes,4.6
+Urban,Dar es Salaam,East,4651680,Frame,Apartment,Yes,Yes,7.8
+Urban,Dodoma,East,5990067,Frame,Apartment,No,No,8.4
+Rural,Dodoma,East,4102500,Frame,Farming,No,No,4.3
+Urban,Dodoma,East,3400000,Frame,Construction,Yes,Yes,9.5
+Urban,Dodoma,East,9973900,Frame,Apartment,Yes,Yes,7.1
+Urban,Dodoma,East,15480000,Frame,Office Bldg,Yes,Yes,5.3
+Rural,Dodoma,East,2446600,Frame,Farming,No,No,5.2
+Urban,Mwanza,Northeast,8861500,Frame,Office Bldg,No,No,6
+Urban,Kilimanjaro,Northeast,97920,Frame,Office Bldg,Yes,Yes,4.1
+Urban,Dodoma,East,5150000,Frame,Apartment,Yes,Yes,5.2
+Rural,Kigoma,Midwest,1451662,Masonry,Farming,No,No,6.5
+Urban,Dar es Salaam,East,1761960,Masonry,Office Bldg,No,No,4.2
+Rural,Dodoma,East,1649105,Frame,Farming,No,No,4.6
+Urban,Dodoma,East,2329500,Frame,Apartment,No,No,7.3
+Urban,Dodoma,East,721500,Frame,Apartment,Yes,Yes,4.5
+Urban,Dar es Salaam,East,2455000,Frame,Apartment,Yes,Yes,9
+Urban,Dar es Salaam,East,3363463,Frame,Farming,Yes,No,5.9
+Rural,Kigoma,Midwest,1568100,Frame,Farming,No,No,8.5
+Urban,Kigoma,Midwest,2063960,Masonry,Organization,No,No,7.2
+Urban,Mwanza,Northeast,1806500,Frame,Apartment,No,Yes,7.5
+Urban,Dodoma,East,49837500,Fire Resist,Apartment,Yes,Yes,8.3
+Rural,Dodoma,East,2244800,Frame,Farming,No,No,7.4
+Urban,Dar es Salaam,East,10346950,Frame,Office Bldg,No,Yes,8.8
+Urban,Dar es Salaam,East,8150000,Frame,Apartment,No,Yes,5.3
+Urban,Dodoma,East,1697200,Frame,Other,No,No,6.2
+Urban,Mwanza,Northeast,3334353,Metal Clad,Farming,Yes,Yes,8.8
+Rural,Kigoma,Midwest,6020060,Masonry,Farming,No,No,9.8
+Urban,Dodoma,East,1381370,Frame,Organization,No,No,8.2
+Urban,Dodoma,East,2442400,Frame,Retail,No,No,9.2
+Urban,Dar es Salaam,East,4193603,Frame,Farming,Yes,No,5.4
+Rural,Kigoma,Midwest,3725520,Masonry,Farming,No,No,8.1
+Urban,Dodoma,East,7394300,Frame,Apartment,Yes,Yes,9.1
+Urban,Dodoma,East,2402500,Frame,Apartment,Yes,Yes,8.4
+Urban,Dar es Salaam,East,1693000,Frame,Farming,Yes,No,8
+Urban,Dar es Salaam,East,9148076,Frame,Manufacturing,Yes,Yes,9.5
+Urban,Dar es Salaam,East,3950000,Frame,Apartment,Yes,Yes,9.2
+Urban,Dar es Salaam,East,14183900,Frame,Apartment,Yes,Yes,5.6
+Urban,Kigoma,Midwest,35245000,Masonry,Apartment,Yes,Yes,6.2
+Urban,Kigoma,Midwest,294700,Masonry,Office Bldg,No,No,4.9
+Urban,Arusha,Central,4488000,Frame,Apartment,No,No,4.8
+Urban,Dar es Salaam,East,1595500,Frame,Office Bldg,Yes,Yes,7.3
+Urban,Kilimanjaro,Central,394220,Frame,Retail,No,No,7.4
+Urban,Kigoma,Midwest,723900,Fire Resist,Office Bldg,Yes,Yes,9.9
+Rural,Dodoma,East,2006700,Frame,Farming,No,No,9.3
+Urban,Kigoma,Midwest,979572,Frame,Retail,No,No,9
+Urban,Dodoma,East,5086300,Frame,Office Bldg,Yes,Yes,6.1
+Rural,Dodoma,East,4353100,Frame,Farming,No,No,9.7
+Urban,Dodoma,East,2056700,Frame,Other,Yes,Yes,6
+Urban,Iringa,Midwest,4886675,Masonry,Apartment,No,No,10
+Rural,Dodoma,East,1973200,Frame,Farming,No,No,8.3
+Urban,Dodoma,East,4156000,Masonry,Hospitality,Yes,Yes,6
+Urban,Dar es Salaam,East,1045000,Frame,Apartment,Yes,No,7
+Urban,Dodoma,East,800000,Frame,Construction,No,No,6.5
+Urban,Dar es Salaam,East,4483000,Frame,Office Bldg,Yes,Yes,5.9
+Rural,Dodoma,East,3074775,Frame,Farming,No,No,5.6
+Urban,Kilimanjaro,Midwest,1834200,Frame,Hospitality,Yes,Yes,4.8
+Urban,Dodoma,East,13370000,Frame,Apartment,Yes,Yes,8.7
+Urban,Dar es Salaam,East,14474600,Fire Resist,Apartment,Yes,Yes,6.5
+Rural,Kigoma,Midwest,2103390,Masonry,Farming,No,No,8.5
+Urban,Kigoma,Midwest,7750100,Masonry,Other,No,No,5.5
+Urban,Dodoma,East,9250000,Frame,Office Bldg,Yes,Yes,9.4
+Rural,Kigoma,Midwest,2867650,Frame,Farming,No,No,6.3
+Rural,Kigoma,Midwest,2798650,Masonry,Farming,No,No,9.8
+Urban,Dodoma,East,2468300,Frame,Apartment,Yes,Yes,8.7
+Urban,Dodoma,East,270000,Masonry,Retail,No,No,8.8
+Urban,Dar es Salaam,East,1374100,Masonry,Office Bldg,Yes,Yes,9.6
+Urban,Kigoma,Midwest,4077100,Masonry,Apartment,Yes,Yes,4.8
+Rural,Dodoma,East,1651300,Frame,Farming,No,No,4.4
+Urban,Mwanza,Northeast,2785000,Frame,Organization,No,No,9.9
+Urban,Kigoma,Midwest,3086048,Frame,Hospitality,Yes,Yes,5.7
+Urban,Dodoma,East,1974300,Masonry,Organization,Yes,Yes,7.7
+Rural,Dodoma,East,3660780,Frame,Farming,No,No,8
+Urban,Dodoma,East,2550000,Frame,Apartment,Yes,Yes,5.7
+Urban,Dodoma,East,2730000,Metal Clad,Hospitality,Yes,Yes,6.7
+Urban,Dodoma,East,963100,Metal Clad,Apartment,Yes,Yes,8
+Rural,Dodoma,East,1419500,Frame,Farming,No,No,7.5
+Urban,Dodoma,East,2758482,Fire Resist,Apartment,Yes,Yes,7
+Urban,Arusha,Central,661900,Frame,Apartment,No,No,9.9
+Urban,Dodoma,East,19451600,Frame,Office Bldg,Yes,Yes,5.9
+Urban,Dodoma,East,1292345,Frame,Office Bldg,No,No,7.2
+Urban,Mwanza,Northeast,9702682,Frame,Apartment,No,No,4.6
+Urban,Dar es Salaam,East,10198700,Fire Resist,Office Bldg,Yes,Yes,9.2
+Urban,Kilimanjaro,Central,714000,Frame,Apartment,No,No,5.7
+Rural,Mwanza,Northeast,2099525,Frame,Farming,No,No,9.9
+Urban,Dar es Salaam,East,16200000,Frame,Office Bldg,Yes,Yes,5
+Urban,Dodoma,East,2570600,Masonry,Office Bldg,Yes,Yes,4.9
+Urban,Dodoma,East,1280000,Fire Resist,Hospitality,Yes,Yes,6.1
+Urban,Dodoma,East,205000,Fire Resist,Retail,No,No,8.2
+Urban,Arusha,Central,1760800,Frame,Apartment,No,No,5.5
+Urban,Dar es Salaam,East,2812559,Frame,Farming,No,No,6.8
+Rural,Dodoma,East,3943000,Frame,Farming,No,No,6.6
+Urban,Dodoma,East,3107790,Masonry,Office Bldg,No,Yes,9.8
+Urban,Dodoma,East,9448200,Frame,Apartment,Yes,Yes,8.7
+Rural,Kilimanjaro,Central,10617800,Frame,Manufacturing,Yes,Yes,5.4
+Urban,Dodoma,East,847300,Frame,Apartment,Yes,Yes,7.9
+Urban,Dar es Salaam,East,400000,Masonry,Office Bldg,No,Yes,9.7
+Urban,Dodoma,East,363200,Frame,Office Bldg,No,Yes,7.8
+Urban,Iringa,Midwest,2922600,Masonry,Apartment,Yes,Yes,5.1
+Urban,Kigoma,Midwest,500500,Masonry,Apartment,Yes,Yes,6.5
+Rural,Dodoma,East,1927450,Frame,Farming,No,No,5.9
+Rural,Dodoma,East,2660299,Frame,Farming,No,No,8.8
+Urban,Kigoma,Midwest,3980100,Masonry,Apartment,No,No,4.9
+Urban,Kigoma,Midwest,2987000,Masonry,Apartment,Yes,Yes,4.4
+Urban,Mwanza,Northeast,16429900,Frame,Apartment,Yes,Yes,6.5
+Urban,Dodoma,East,16950000,Frame,Apartment,Yes,Yes,8.3
+Urban,Dodoma,East,36909180,Metal Clad,Manufacturing,Yes,Yes,8.5
+Urban,Dodoma,East,9600000,Frame,Office Bldg,Yes,No,5.5
+Urban,Kigoma,East,22050000,Frame,Office Bldg,Yes,Yes,8.7
+Urban,Dodoma,East,3850000,Frame,Construction,No,Yes,7.9
+Urban,Dodoma,Northeast,13514081,Frame,Recreation,Yes,Yes,6.1
+Urban,Iringa,East,2000000,Frame,Hospitality,Yes,Yes,5.4
+Rural,Kigoma,Midwest,1658765,Masonry,Farming,No,No,9.4
+Urban,Dodoma,Central,8272853,Masonry,Apartment,No,No,8.2
+Urban,Dodoma,East,6750000,Frame,Apartment,Yes,Yes,6.2
+Urban,Dodoma,Midwest,7828000,Masonry,Office Bldg,No,Yes,9.7
+Urban,Dodoma,East,373500,Frame,Office Bldg,No,No,4
+Urban,Dodoma,East,17050000,Frame,Office Bldg,Yes,Yes,9.7
+Rural,Kigoma,East,1958400,Frame,Farming,No,No,5.3
+Urban,Dar es Salaam,East,17746832,Masonry,Apartment,Yes,Yes,7.4
+Urban,Kigoma,Midwest,6040300,Masonry,Apartment,Yes,No,6.5
+Rural,Dodoma,Midwest,2224219,Frame,Farming,No,No,8.7
+Urban,Kigoma,East,847300,Frame,Office Bldg,Yes,Yes,8
+Urban,Dodoma,Midwest,782428,Masonry,Apartment,No,No,6.7
+Urban,Dodoma,East,299400,Frame,Office Bldg,Yes,No,6.5
+Urban,Dodoma,Midwest,1397100,Masonry,Office Bldg,Yes,Yes,4.1
+Urban,Mwanza,East,1714835,Frame,Apartment,No,No,4.9
+Urban,Arusha,Central,1991600,Frame,Organization,No,No,8.6
+Urban,Dodoma,Midwest,3701573,Frame,Farming,No,No,4.3
+Urban,Dodoma,East,5460000,Frame,Apartment,Yes,Yes,4.9
+Rural,Dodoma,East,3136600,Frame,Farming,No,No,5.6
+Urban,Dar es Salaam,East,1780000,Frame,Hospitality,Yes,Yes,5.8
+Urban,Kigoma,East,230000,Frame,Manufacturing,Yes,Yes,6
+Urban,Dar es Salaam,East,1463800,Frame,Farming,Yes,No,4.2
+Rural,Dodoma,Northeast,3579800,Metal Clad,Farming,No,No,8.3
+Urban,Mwanza,East,1275600,Frame,Apartment,No,Yes,5.7
+Rural,Kigoma,East,5781710,Frame,Farming,No,No,4.8
+Urban,Dar es Salaam,Northeast,320000,Masonry,Retail,No,No,6.8
+Urban,Iringa,East,1379400,Frame,Apartment,No,No,8.8
+Rural,Kigoma,Midwest,6385452,Frame,Farming,Yes,No,4.2
+Urban,Arusha,Midwest,4671000,Masonry,Apartment,Yes,Yes,6.4
+Rural,Dodoma,East,199000,Frame,Retail,No,No,8.4
+Urban,Kigoma,Midwest,2100000,Frame,Apartment,No,No,7.2
+Urban,Dodoma,East,1875000,Masonry,Hospitality,Yes,Yes,5.2
+Rural,Dodoma,Midwest,2201500,Frame,Farming,No,No,8.9
+Urban,Dodoma,East,1986100,Frame,Apartment,No,No,9
+Urban,Dodoma,Midwest,105000,Masonry,Other,No,No,9.7
+Urban,Dodoma,East,3700000,Masonry,Office Bldg,Yes,Yes,8.7
+Urban,Dodoma,Midwest,29128000,Fire Resist,Apartment,Yes,Yes,6.5
+Urban,Dodoma,Northeast,10700000,Frame,Hospitality,Yes,Yes,6.9
+Rural,Dar es Salaam,Midwest,1778600,Frame,Farming,No,No,6.2
+Rural,Kigoma,East,3866420,Frame,Farming,No,No,5.6
+Urban,Dodoma,East,1037500,Frame,Manufacturing,No,No,5.7
+Rural,Kigoma,East,2480800,Frame,Farming,No,No,4.2
+Urban,Dar es Salaam,Midwest,578400,Masonry,Office Bldg,No,No,7.9
+Urban,Iringa,East,3178400,Frame,Office Bldg,Yes,Yes,8.7
+Urban,Kigoma,Northeast,7150000,Masonry,Apartment,Yes,Yes,6.9
+Urban,Dodoma,East,1604800,Frame,Hospitality,Yes,Yes,9.5
+Urban,Dar es Salaam,East,18275350,Frame,Office Bldg,Yes,Yes,4.4
+Urban,Dar es Salaam,East,710400,Masonry,Office Bldg,No,No,7
+Urban,Arusha,Midwest,2205950,Masonry,Apartment,No,No,6.3
+Urban,Arusha,Midwest,8166050,Fire Resist,Apartment,No,Yes,9.7
+Urban,Dar es Salaam,Midwest,3222081,Masonry,Farming,No,No,8.8
+Urban,Kigoma,East,371600,Frame,Hospitality,Yes,No,5.1
+Urban,Dodoma,Midwest,1365000,Masonry,Hospitality,Yes,Yes,7.9
+Urban,Dar es Salaam,East,24000000,Frame,Apartment,Yes,Yes,6.2
+Urban,Dodoma,East,7700000,Fire Resist,Construction,Yes,Yes,7.1
+Urban,Dodoma,Midwest,4578800,Frame,Farming,No,No,6.4
+Rural,Dodoma,Northeast,2477200,Frame,Farming,No,No,5.7
+Urban,Dodoma,East,3432600,Frame,Office Bldg,Yes,Yes,9.6
+Rural,Dodoma,Midwest,172100,Frame,Farming,No,No,6.4
+Urban,Dar es Salaam,East,11147050,Fire Resist,Apartment,Yes,Yes,7.9
+Urban,Dodoma,East,2007000,Frame,Office Bldg,Yes,Yes,6.5
+Urban,Dodoma,East,9404500,Frame,Apartment,Yes,Yes,8.5
+Urban,Dodoma,East,5056900,Fire Resist,Apartment,Yes,Yes,9.1
+Urban,Dodoma,Midwest,4577032,Frame,Farming,No,No,7.6
+Urban,Kigoma,East,953100,Metal Clad,Office Bldg,No,No,6.9
+Rural,Dar es Salaam,East,2562500,Fire Resist,Manufacturing,No,No,9.5
+Urban,Mwanza,East,6908000,Frame,Office Bldg,Yes,Yes,5.2
+Urban,Kigoma,Northeast,1588100,Masonry,Recreation,No,No,4.2
+Urban,Dodoma,East,311200,Frame,Apartment,No,No,7
+Urban,Dar es Salaam,East,14850000,Frame,Office Bldg,Yes,Yes,6
+Urban,Dodoma,East,1557500,Frame,Office Bldg,No,Yes,4.7
+Urban,Dodoma,East,4267000,Frame,Office Bldg,Yes,Yes,7.1
+Urban,Dodoma,Midwest,1702350,Frame,Apartment,No,No,5.9
+Urban,Dodoma,East,280600,Frame,Office Bldg,No,No,7.5
+Urban,Kilimanjaro,Midwest,2025100,Masonry,Office Bldg,No,No,6.4
+Urban,Kigoma,East,6748000,Frame,Apartment,Yes,Yes,5.8
+Urban,Dodoma,Midwest,2067500,Fire Resist,Service,Yes,Yes,4.5
+Urban,Dodoma,East,3235700,Frame,Apartment,Yes,Yes,7.7
+Urban,Dodoma,East,2356100,Frame,Hospitality,Yes,Yes,6.7
+Urban,Dodoma,East,7932500,Frame,Apartment,Yes,Yes,4.7
+Urban,Dar es Salaam,East,1851125,Frame,Office Bldg,No,No,4.4
+Urban,Dodoma,East,8345500,Frame,Apartment,Yes,Yes,4.7
+Urban,Dodoma,East,2400000,Frame,Construction,Yes,Yes,8.6
+Urban,Arusha,Midwest,1675000,Frame,Hospitality,Yes,Yes,4.3
+Urban,Dodoma,Northeast,145680,Frame,Office Bldg,No,No,9.6
+Urban,Dodoma,East,13900000,Frame,Office Bldg,Yes,Yes,4.1
+Urban,Dar es Salaam,East,13575000,Frame,Office Bldg,Yes,Yes,4.7
+Urban,Dar es Salaam,East,5950500,Metal Clad,Office Bldg,Yes,Yes,7.8
+Urban,Kigoma,Central,1569440,Masonry,Organization,No,No,5.5
+Urban,Dar es Salaam,East,2131900,Masonry,Retail,No,No,9.7
+Urban,Dodoma,Midwest,631410,Frame,Farming,No,No,4.4
+Urban,Kigoma,East,1856637,Masonry,Hospitality,Yes,Yes,5
+Urban,Dar es Salaam,Midwest,2321900,Frame,Manufacturing,No,No,4.4
+Urban,Dodoma,East,4726686,Frame,Farming,Yes,No,5.2
+Urban,Dar es Salaam,Northeast,1444255,Frame,Organization,No,No,7.3
+Urban,Dodoma,East,1830900,Frame,Office Bldg,No,No,4.9
+Urban,Dodoma,Northeast,1325200,Frame,Organization,No,No,8.1
+Urban,Dar es Salaam,East,1267625,Frame,Office Bldg,No,No,8.4
+Rural,Dodoma,East,3409000,Metal Clad,Farming,No,No,5.5
+Urban,Dodoma,East,33250000,Frame,Apartment,Yes,Yes,8.4
+Urban,Kigoma,East,320100,Frame,Apartment,No,No,9.8
+Urban,Dar es Salaam,Midwest,275000,Masonry,Apartment,No,No,6.7
+Urban,Mwanza,Midwest,1519100,Masonry,Apartment,No,No,9.4
+Rural,Mwanza,Midwest,2182250,Frame,Farming,No,No,6.4
+Rural,Dodoma,Midwest,4328620,Frame,Farming,No,No,5.4
+Urban,Dar es Salaam,East,1840000,Masonry,Apartment,No,No,8.6
+Urban,Dodoma,East,21250000,Frame,Office Bldg,Yes,Yes,4
+Rural,Dodoma,East,2534633,Frame,Farming,No,No,7.6
+Urban,Dodoma,East,2494300,Frame,Apartment,Yes,Yes,6.8
+Urban,Dodoma,East,2562500,Frame,Apartment,Yes,Yes,9.1
+Urban,Dodoma,Midwest,685000,Masonry,Hospitality,Yes,Yes,5.5
+Urban,Dodoma,East,503000,Masonry,Hospitality,No,Yes,7.9
+Urban,Mwanza,East,10259600,Frame,Apartment,Yes,Yes,8.5
+Urban,Kilimanjaro,East,3798400,Metal Clad,Office Bldg,Yes,Yes,9.1
+Urban,Dodoma,East,2269865,Masonry,Retail,Yes,Yes,7.5
+Urban,Kigoma,East,2363700,Frame,Farming,No,No,5.2
+Urban,Dar es Salaam,Midwest,1960200,Masonry,Farming,No,No,9.5
+Urban,Dodoma,Midwest,16833800,Fire Resist,Apartment,Yes,Yes,8.9
+Rural,Dodoma,East,4127900,Metal Clad,Farming,No,No,7.8
+Urban,Dodoma,East,2753500,Masonry,Office Bldg,Yes,Yes,8.9
+Urban,Dar es Salaam,East,10518041,Frame,Office Bldg,Yes,Yes,7.7
+Urban,Dar es Salaam,East,1554500,Frame,Farming,No,No,9.3
+Urban,Kigoma,East,1115870,Frame,Farming,Yes,No,6.2
+Urban,Kigoma,East,15625000,Frame,Office Bldg,Yes,Yes,7.6
+Urban,Mwanza,Midwest,787500,Frame,Apartment,No,No,7.3
+Urban,Dodoma,East,15750000,Masonry,Apartment,Yes,Yes,4.7
+Urban,Dodoma,Central,320000,Masonry,Retail,No,No,5.1
+Rural,Dar es Salaam,Midwest,2611400,Frame,Farming,No,No,4.8
+Rural,Dar es Salaam,East,2398000,Metal Clad,Farming,No,No,6.6
+Urban,Dodoma,East,2329942,Frame,Farming,Yes,No,5.5
+Urban,Mwanza,Midwest,1305100,Frame,Apartment,Yes,Yes,8.5
+Rural,Kigoma,East,4981500,Frame,Farming,No,No,4.8
+Urban,Dodoma,East,535000,Fire Resist,Retail,No,No,8.4
+Urban,Dodoma,East,10397500,Frame,Apartment,Yes,Yes,7.8
+Urban,Dar es Salaam,East,2003000,Masonry,Apartment,Yes,Yes,9.3
+Urban,Kigoma,East,10808800,Frame,Office Bldg,Yes,Yes,5.2
+Urban,Dodoma,East,1962400,Frame,Apartment,No,No,6.5
+Urban,Dodoma,East,2423500,Frame,Apartment,Yes,Yes,5.6
+Rural,Dar es Salaam,East,3067800,Frame,Farming,No,No,7.4
+Urban,Dar es Salaam,Central,1202090,Frame,Organization,No,No,9.1
+Urban,Dar es Salaam,East,3062000,Frame,Apartment,Yes,Yes,8
+Urban,Dar es Salaam,East,2815900,Metal Clad,Manufacturing,No,No,7.2
+Urban,Kigoma,Northeast,790000,Masonry,Apartment,No,No,7.1
+Urban,Kigoma,East,1975000,Fire Resist,Hospitality,Yes,Yes,9.1
+Urban,Arusha,Midwest,2070000,Masonry,Apartment,No,No,5.6
+Urban,Dar es Salaam,East,847300,Frame,Apartment,Yes,Yes,6
+Urban,Kilimanjaro,East,2029750,Frame,Apartment,No,No,5.4
+Rural,Kigoma,East,2636313,Frame,Farming,No,No,7.8
+Urban,Dodoma,East,2080000,Masonry,Hospitality,Yes,Yes,9.9
+Urban,Kigoma,East,205000,Fire Resist,Retail,Yes,Yes,4.9
+Urban,Dodoma,East,1936200,Frame,Farming,No,No,5.2
+Urban,Dodoma,Midwest,1403100,Frame,Medical,No,No,8.9
+Urban,Dodoma,Central,315000,Frame,Apartment,No,No,9.1
+Urban,Iringa,East,2000000,Masonry,Apartment,Yes,Yes,7
+Urban,Dodoma,East,9900000,Frame,Apartment,Yes,Yes,9.6
+Urban,Dodoma,Central,3255300,Frame,Hospitality,No,No,8.7
+Rural,Dar es Salaam,East,4477175,Frame,Farming,Yes,No,9.4
+Urban,Dodoma,East,2395000,Frame,Hospitality,No,Yes,4
+Urban,Dar es Salaam,East,5550000,Fire Resist,Apartment,Yes,Yes,7.5
+Urban,Dodoma,East,1922800,Metal Clad,Office Bldg,Yes,Yes,4.2
+Urban,Kilimanjaro,East,3028850,Frame,Farming,Yes,No,9.9
+Rural,Dodoma,East,10811785,Metal Clad,Retail,No,No,4.2
+Urban,Dar es Salaam,East,30000,Fire Resist,Service,Yes,Yes,9.9
+Urban,Kigoma,East,15700000,Frame,Office Bldg,Yes,Yes,5.8
+Urban,Kigoma,Midwest,5503255,Masonry,Office Bldg,No,No,6
+Urban,Dodoma,Midwest,5015000,Masonry,Manufacturing,No,No,10
+Urban,Kigoma,Central,601000,Frame,Other,No,No,9.5
+Urban,Kigoma,East,1563500,Frame,Retail,Yes,Yes,6.6
+Rural,Dodoma,East,10979275,Frame,Farming,No,No,8.1
+Urban,Dodoma,East,6198000,Frame,Office Bldg,Yes,Yes,9.7
+Urban,Dar es Salaam,Midwest,504000,Frame,Apartment,No,No,7.2
+Urban,Kigoma,Midwest,2211300,Masonry,Service,Yes,Yes,6.2
+Rural,Dodoma,Northeast,6000902,Frame,Farming,Yes,Yes,7.3
+Urban,Mwanza,East,660473,Frame,Apartment,No,No,4.3
+Urban,Kigoma,East,4978985,Frame,Farming,Yes,No,4.6
+Urban,Dodoma,East,5213100,Frame,Apartment,Yes,Yes,5.8
+Rural,Dodoma,East,2336132,Metal Clad,Farming,No,No,8.3
+Urban,Dodoma,East,6253000,Frame,Apartment,Yes,Yes,8
+Urban,Dodoma,East,1500000,Fire Resist,Hospitality,Yes,Yes,9.4
+Rural,Dodoma,Midwest,2984500,Metal Clad,Farming,No,No,6.2
+Urban,Dodoma,Midwest,2502600,Masonry,Apartment,Yes,Yes,9.8
+Urban,Dodoma,East,8115500,Fire Resist,Apartment,Yes,Yes,9.6
+Rural,Arusha,East,2162291,Frame,Farming,No,No,4.9
+Rural,Dodoma,Midwest,4064995,Masonry,Farming,No,No,8
+Rural,Dodoma,East,3295800,Frame,Farming,No,No,7.8
+Urban,Mwanza,East,9710700,Frame,Apartment,Yes,Yes,4.1
+Urban,Dar es Salaam,East,2350000,Masonry,Apartment,Yes,Yes,5.5
+Urban,Kilimanjaro,East,1807440,Frame,Organization,Yes,Yes,5.4
+Urban,Mwanza,Midwest,3175400,Masonry,Office Bldg,Yes,Yes,5.1
+Urban,Dar es Salaam,Midwest,3741300,Fire Resist,Apartment,Yes,Yes,6.9
+Rural,Dodoma,East,2806200,Frame,Farming,No,No,7.8
+Urban,Dodoma,Northeast,6169400,Frame,Apartment,Yes,Yes,6.6
+Urban,Dodoma,East,2325718,Metal Clad,Manufacturing,No,No,9.2
+Urban,Arusha,East,245000,Frame,Service,No,No,7.8
+Urban,Dar es Salaam,Midwest,4201800,Frame,Farming,No,No,8.7
+Rural,Dodoma,Midwest,2820265,Frame,Farming,No,No,9.2
+Urban,Dodoma,East,12220000,Frame,Office Bldg,Yes,Yes,8.3
+Urban,Dodoma,East,1144300,Frame,Apartment,Yes,Yes,8.2
+Urban,Kilimanjaro,East,4530000,Frame,Apartment,Yes,Yes,7.5
+Urban,Dodoma,Northeast,552300,Frame,Apartment,No,No,9.8
+Urban,Dar es Salaam,East,2000300,Masonry,Office Bldg,No,No,8.7
+Urban,Dodoma,East,3990000,Frame,Apartment,Yes,Yes,6.7
+Urban,Iringa,East,5850000,Frame,Apartment,Yes,Yes,5
+Urban,Kigoma,East,6250000,Frame,Apartment,Yes,Yes,7
+Urban,Dodoma,Northeast,1327600,Frame,Apartment,No,No,8.9
+Urban,Dodoma,East,1510000,Masonry,Hospitality,No,No,8
+Urban,Kigoma,East,3871000,Frame,Apartment,Yes,Yes,6.9
+Urban,Kigoma,East,513300,Frame,Apartment,No,No,7.3
+Rural,Mwanza,East,2943800,Frame,Farming,No,No,6.9
+Urban,Dodoma,Midwest,3952500,Masonry,Manufacturing,Yes,Yes,5.7
+Urban,Dodoma,East,8923000,Frame,Apartment,Yes,Yes,6.4
+Urban,Dodoma,Midwest,2900000,Fire Resist,Apartment,Yes,Yes,9.6
+Urban,Dodoma,East,6450000,Frame,Office Bldg,Yes,Yes,6.8
+Urban,Dodoma,East,4479400,Frame,Apartment,No,No,9
+Urban,Mwanza,Midwest,2030600,Frame,Farming,No,No,9.6
+Rural,Dodoma,East,2013357,Frame,Farming,No,No,7.7
+Rural,Kigoma,East,4017155,Frame,Farming,No,No,7
+Urban,Arusha,East,11650000,Frame,Office Bldg,Yes,Yes,6.5
+Urban,Dodoma,East,9250000,Frame,Apartment,Yes,Yes,8.1
+Rural,Iringa,Northeast,2198800,Frame,Farming,No,No,4.3
+Rural,Dar es Salaam,East,3553009,Frame,Farming,No,No,6.5
+Urban,Dodoma,Midwest,1063100,Masonry,Apartment,Yes,Yes,9.5
+Urban,Dodoma,East,2854500,Masonry,Apartment,Yes,Yes,9.7
+Urban,Dodoma,East,3356200,Masonry,Construction,Yes,Yes,9.5
+Rural,Kigoma,East,1882600,Frame,Farming,No,No,8.9
+Rural,Kigoma,East,2393232,Frame,Farming,No,No,6.5
+Urban,Dodoma,East,14678200,Frame,Office Bldg,Yes,Yes,5.3
+Rural,Kigoma,East,5017360,Frame,Farming,No,No,9.6
+Urban,Dar es Salaam,East,2625000,Frame,Apartment,Yes,Yes,6.7
+Urban,Kigoma,East,285700,Frame,Office Bldg,No,No,7.6
+Urban,Dodoma,East,275000,Fire Resist,Retail,Yes,No,4.8
+Urban,Kilimanjaro,East,10396250,Frame,Office Bldg,Yes,Yes,5.5
+Urban,Kigoma,East,27208210,Fire Resist,Apartment,Yes,Yes,4.7
+Urban,Dar es Salaam,Midwest,1740000,Masonry,Office Bldg,No,No,6.9
+Rural,Dodoma,Midwest,2464755,Metal Clad,Farming,No,No,4.5
+Urban,Dodoma,East,535000,Frame,Office Bldg,No,No,6.2
+Urban,Dodoma,East,2837500,Frame,Manufacturing,Yes,Yes,7.6
+Urban,Dar es Salaam,Midwest,1400000,Masonry,Organization,No,No,7.9
+Urban,Mwanza,Midwest,1711268,Frame,Manufacturing,No,No,4.5
+Urban,Dodoma,East,1780000,Masonry,Hospitality,Yes,Yes,8.7
+Urban,Dodoma,East,10746600,Frame,Apartment,Yes,Yes,6.1
+Urban,Kilimanjaro,East,645000,Fire Resist,Retail,No,No,6.4
+Rural,Dodoma,East,3724339,Frame,Farming,No,No,9.1
+Urban,Kigoma,East,12493000,Frame,Apartment,Yes,Yes,7.1
+Urban,Kigoma,Midwest,539040,Frame,Retail,No,No,7.7
+Urban,Dodoma,East,2159000,Frame,Retail,No,No,4.5
+Urban,Kigoma,East,3750000,Frame,Apartment,Yes,Yes,7.2
+Rural,Dodoma,East,100000,Metal Clad,Farming,No,No,8.4
+Rural,Kigoma,East,1121600,Metal Clad,Farming,No,No,5.4
+Urban,Dodoma,East,9000000,Fire Resist,Apartment,Yes,Yes,9.7
+Urban,Kigoma,East,292200,Frame,Apartment,Yes,Yes,5.5
+Urban,Dar es Salaam,Northeast,345000,Metal Clad,Retail,No,No,4.6
+Urban,Iringa,East,11575700,Frame,Apartment,Yes,Yes,6.6
+Urban,Mwanza,Central,608500,Frame,Apartment,No,No,6.3
+Urban,Kigoma,East,5114500,Frame,Office Bldg,Yes,Yes,4.2
+Urban,Dodoma,Midwest,4822450,Masonry,Office Bldg,Yes,Yes,4.4
+Urban,Dodoma,East,1125600,Masonry,Apartment,No,No,6.7
+Urban,Dodoma,East,9377600,Frame,Apartment,Yes,Yes,6.7
+Rural,Kigoma,East,3920500,Frame,Farming,No,No,8.4
+Urban,Dodoma,Northeast,626000,Masonry,Office Bldg,No,No,6.2
+Rural,Kilimanjaro,Midwest,4132600,Frame,Farming,No,No,5
+Rural,Dar es Salaam,East,6235057,Frame,Farming,No,No,6
+Rural,Dodoma,Northeast,1960000,Frame,Farming,No,No,7
+Rural,Dodoma,East,2500000,Metal Clad,Farming,No,No,6.6
+Urban,Kigoma,Midwest,3883300,Metal Clad,Farming,No,No,7.3
+Urban,Kigoma,East,1425000,Masonry,Apartment,No,No,8.3
+Urban,Kigoma,East,1545100,Frame,Office Bldg,Yes,Yes,4.3
+Urban,Dar es Salaam,Midwest,1665100,Frame,Apartment,No,No,9.8
+Urban,Kigoma,East,8245000,Frame,Apartment,Yes,Yes,8.2
+Urban,Dodoma,East,2432600,Frame,Retail,Yes,Yes,7.2
+Urban,Dodoma,East,1480000,Fire Resist,Hospitality,Yes,Yes,8.7
+Urban,Iringa,East,9050000,Frame,Apartment,Yes,Yes,8.4
+Rural,Mwanza,East,1480755,Frame,Farming,No,No,7.1
+Urban,Dar es Salaam,Northeast,4101750,Fire Resist,Office Bldg,Yes,Yes,5.5
+Urban,Iringa,Central,1739100,Frame,Apartment,No,No,8.5
+Urban,Dodoma,East,2250000,Frame,Office Bldg,Yes,Yes,6.2
+Urban,Dodoma,East,16482200,Frame,Office Bldg,Yes,Yes,8.9
+Rural,Iringa,Central,30000,Frame,Apartment,No,No,1
+Rural,Dodoma,Midwest,299999,Fire Resist,Recreation,Yes,Yes,1
