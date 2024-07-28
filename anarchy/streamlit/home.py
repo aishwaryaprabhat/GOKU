@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 import plotly.express as px
-# from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu
 from numerize.numerize import numerize
 
 st.set_page_config(page_title='Dashboard', page_icon='🌍', layout='wide')
@@ -106,5 +106,24 @@ def graphs():
     right.plotly_chart(fig_investment, use_container_width=True)
 
 
-home()
-graphs()
+def side_bar():
+    with st.sidebar:
+        selected = option_menu(
+            menu_title = 'Main Menu',
+            options=['Home', 'Progress'],
+            icons=['house', 'eye'],
+            menu_icon='cast',
+            default_index=0
+        )
+    if selected == 'Home':
+        st.subheader(f'Page: {selected}')
+        home()
+        graphs()
+    if selected == 'Progress':
+        st.subheader(f'Page: {selected}')
+        graphs()
+
+
+side_bar()
+# home()
+# graphs()
