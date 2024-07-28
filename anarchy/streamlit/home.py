@@ -107,13 +107,15 @@ def graphs():
 
 
 def side_bar():
+
     with st.sidebar:
         selected = option_menu(
             menu_title = 'Main Menu',
             options=['Home', 'Progress'],
             icons=['house', 'eye'],
             menu_icon='cast',
-            default_index=0
+            default_index=0,
+
         )
     if selected == 'Home':
         st.subheader(f'Page: {selected}')
@@ -127,3 +129,11 @@ def side_bar():
 side_bar()
 # home()
 # graphs()
+
+
+hide_st_style = '''
+<style>
+#MainMenu{visibility:hidden;}
+footer{visibility:hidden;}
+</stle>
+'''
