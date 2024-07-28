@@ -32,6 +32,7 @@ df_selection = df.query(
 
 
 def home():
+
     with st.expander('Tabular'):
         show_data = st.multiselect('Filter: ', df_selection.columns, default=[])
         st.write(df_selection[show_data])
@@ -61,4 +62,49 @@ def home():
 
     st.markdown('------')
 
+
+def graphs():
+
+    # simple line graph
+    investment_by_business_type = (
+        df_selection.groupby(by=['BusinessType']).count()[['Investment']].sort_values(by='Investment')
+    )
+    fig_investment = px.bar(
+        investment_by_business_type,
+        x='Investment',
+        y=investment_by_business_type.index,
+        orientation='h',
+        title='<b> Investmeny by Business Type </b>',
+        color_discrete_sequence=['#00b3b8']*len(investment_by_business_type),
+        template='plotly_white'
+    )
+
+    fig_investment.update_layout(
+        plot_bgcolor='rgb(0,0,0,0)',
+        xaxis=(dict(showgrid=False))
+    )
+
+    # simple line graph
+    investment_state = (df_selection.groupby(by=['State']).count()[['Investment']])
+    fig_state = px.line(
+        investment_state,
+        x=investment_state.index,
+        y='Investment',
+        orientation='v',
+        title='<b> Investmeny by State </b>',
+        color_discrete_sequence=['#00b3b8']*len(investment_state),
+        template='plotly_white'
+    )
+    fig_state.update_layout(
+        plot_bgcolor='rgb(0,0,0,0)',
+        xaxis=(dict(tickmode='linear')),
+        yaxis=(dict(showgrid=False))
+    )
+
+    left, right = st.columns(2)
+    left.plotly_chart(fig_state, use_container_width=True)
+    right.plotly_chart(fig_investment, use_container_width=True)
+
+
 home()
+graphs()
